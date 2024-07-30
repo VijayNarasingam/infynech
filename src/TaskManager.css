@@ -1,0 +1,9 @@
+.ts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn.btn-danger{
+    margin-top: 20px;
+    margin-left: 20vw;
+}

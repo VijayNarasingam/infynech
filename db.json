@@ -1,0 +1,24 @@
+{
+  "Login": [
+    {
+      "id": "6df1"
+    },
+    {
+      "id": "vijay",
+      "password": "vijay"
+    },
+    {
+      "id": "12345",
+      "password": "12345"
+    }
+  ],
+  "User": [
+    {
+      "id": "1a3e",
+      "taskName": "task 1",
+      "priority": "Highest",
+      "startDate": "2024-07-30",
+      "endDate": "2024-07-31"
+    }
+  ]
+}
